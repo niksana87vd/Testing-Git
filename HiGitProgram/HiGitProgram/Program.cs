@@ -7,6 +7,7 @@ namespace HiGitProgram
         static void Main()
         {
             Console.WriteLine("Git Hello!");
+            Console.WriteLine("I am Nikolay");
         }
     }
 }
